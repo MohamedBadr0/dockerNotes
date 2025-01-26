@@ -2,7 +2,7 @@
 - download the image
 - 
 
-<!-- you must use sudo for linux -->
+you must use sudo for linux
 
 
 Some helpful commands for docker:
@@ -40,5 +40,5 @@ docker stats <containerID or name>
 ```
 
 
-
-<!-- https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/ -->
+#### resources:
+    - https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/g
