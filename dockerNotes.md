@@ -1,11 +1,9 @@
 ### Docker Notes:
 - download the image
-- 
-
-you must use sudo for linux
+- you must use sudo for linux
 
 
-Some helpful commands for docker:
+#### Some helpful commands for docker:
 ```
 docker run <imagename>      ==> check if it exists, if not download it
 docker run hello-world
@@ -41,4 +39,4 @@ docker stats <containerID or name>
 
 
 #### resources:
-    - https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/g
+    - https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/
